@@ -1,6 +1,6 @@
 # Hi there, I'm Rahul Kumar 👋
 
-<img src="https://placehold.co/800x200/6366f1/ffffff?text=Proven+Product+Leader+%7C+AI+%26+Healthcare+Innovation" alt="Header Banner - Proven Product Leader | AI & Healthcare Innovation" style="border-radius: 8px;"/>
+<img src="https://placehold.co/800x200/d0e0e3/ffffff?text=Proven+Product+Leader+%7C+AI+%26+Healthcare+Innovation" alt="Header Banner - Proven Product Leader | AI & Healthcare Innovation" style="border-radius: 8px;"/>
 
 I'm a **Senior Product Manager** based in Tempe, Arizona 🌵, with a passion for building impactful, customer-centric products, particularly at the intersection of **Healthcare and Artificial Intelligence**. I thrive on leveraging data and first-principles thinking to solve complex problems and deliver significant business value – including leading initiatives contributing to over **$500M** in projected revenue and savings.
 
