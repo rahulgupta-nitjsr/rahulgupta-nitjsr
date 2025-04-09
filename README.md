@@ -45,6 +45,11 @@ Currently driving product innovation at **CVS Health - Aetna**.
 * **Other:** Git, Unix Shell Scripting
 
 ---
+### ✨ Pinned Projects Showcase 
+
+* **CreatorSync**: (https://github.com/rahulgupta-nitjsr/CreatorSync) - *CreatorSync is a web platform designed to streamline the workflow for content creators who publish across multiple short-form video and social media platforms.*
+* **local-rag-chat**: (https://github.com/rahulgupta-nitjsr/local-rag-chat) - *A simple, locally-hosted Retrieval-Augmented Generation (RAG) system that allows you to chat with your PDF documents. Built with Python using FastAPI, Reflex, LangChain, Ollama, and ChromaDB.*
+* **YourStudyBuddy**: (https://github.com/rahulgupta-nitjsr/YourStudyBuddy) - *Your Study Buddy aims to revolutionize the learning experience by providing an AI-powered, personalized study companion. Our goal is to make learning more engaging, efficient, and effective for students of all levels, helping them achieve their academic goals through adaptive learning paths, interactive quizzes, and real-time feedback.*
 
 ---
 
