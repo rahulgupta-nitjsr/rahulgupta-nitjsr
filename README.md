@@ -1,6 +1,6 @@
 # Hi there, I'm Rahul Kumar 👋
 
-<img src="https://placehold.co/800x200/6366F1/ffffff?text=Proven+Product+Leader+%7C+AI+%26+Healthcare+Innovation" alt="Header Banner - Proven Product Leader | AI & Healthcare Innovation" style="border-radius: 8px;"/>
+<img src="https://placehold.co/800x200/6366F1/ffffff?text=Proven+Product+Leader+%7C+AI+%26+Innovation" alt="Header Banner - Proven Product Leader | AI & Healthcare Innovation" style="border-radius: 8px;"/>
 
 I'm a **Senior Product Manager** based in Tempe, Arizona 🌵, with a passion for building impactful, customer-centric products, particularly at the intersection of **Healthcare and Artificial Intelligence**. I thrive on leveraging data and first-principles thinking to solve complex problems and deliver significant business value – including leading initiatives contributing to over **$500M** in projected revenue and savings.
 
@@ -45,7 +45,7 @@ Currently driving product innovation at **CVS Health - Aetna**.
 * **Other:** Git, Unix Shell Scripting
 
 ---
-### ✨ Pinned Projects Showcase 
+### ✨ Pinned Projects Showcase (Vibe coding with AI)
 
 * **CreatorSync**: (https://github.com/rahulgupta-nitjsr/CreatorSync) - *CreatorSync is a web platform designed to streamline the workflow for content creators who publish across multiple short-form video and social media platforms.*
 * **local-rag-chat**: (https://github.com/rahulgupta-nitjsr/local-rag-chat) - *A simple, locally-hosted Retrieval-Augmented Generation (RAG) system that allows you to chat with your PDF documents. Built with Python using FastAPI, Reflex, LangChain, Ollama, and ChromaDB.*
