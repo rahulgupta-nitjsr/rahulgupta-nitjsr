@@ -8,6 +8,12 @@ Currently driving product innovation at **CVS Health - Aetna**.
 
 ---
 
+### 🎯 Product Portfolio Showcase
+
+* **AI Product PM Portfolio**: [aiproductpm.com](https://aiproductpm.com) - *A comprehensive showcase of my product management journey, featuring case studies, AI implementation strategies, healthcare product insights, and thought leadership in building AI-powered solutions for regulated industries.*
+
+---
+
 ### 🚀 What I Do
 
 * **Product Leadership & Strategy:** Defining product vision, building roadmaps, leading cross-functional teams (up to 14 members), and coaching product managers to deliver high-impact features on time and under budget.
@@ -47,9 +53,9 @@ Currently driving product innovation at **CVS Health - Aetna**.
 ---
 ### ✨ Pinned Projects Showcase (Vibe coding with AI)
 
+* **TrendTrivia**: (https://github.com/rahulgupta-nitjsr/trendtrivia) - *A modern, interactive trivia application that tests your knowledge on the latest trends across Technology, Pop Culture, Finance, and Start-ups. Built with React 18, featuring space-themed animated backgrounds, glass morphism UI, and comprehensive performance analytics with 40 curated questions across 4 dynamic categories.*
+* **Emergent_ScreentimeBalance**: (https://github.com/rahulgupta-nitjsr/Emergent_ScreentimeBalance) - *A gamified Progressive Web App that motivates users to engage in healthy activities by converting outdoor activities, exercise, productive work, and proper sleep into earned screen time. Features 3D visualizations, streak systems, manual time entry, and real-time balance tracking with multipliers and bonuses.*
 * **CreatorSync**: (https://github.com/rahulgupta-nitjsr/CreatorSync) - *CreatorSync is a web platform designed to streamline the workflow for content creators who publish across multiple short-form video and social media platforms.*
-* **local-rag-chat**: (https://github.com/rahulgupta-nitjsr/local-rag-chat) - *A simple, locally-hosted Retrieval-Augmented Generation (RAG) system that allows you to chat with your PDF documents. Built with Python using FastAPI, Reflex, LangChain, Ollama, and ChromaDB.*
-* **YourStudyBuddy**: (https://github.com/rahulgupta-nitjsr/YourStudyBuddy) - *Your Study Buddy aims to revolutionize the learning experience by providing an AI-powered, personalized study companion. Our goal is to make learning more engaging, efficient, and effective for students of all levels, helping them achieve their academic goals through adaptive learning paths, interactive quizzes, and real-time feedback.*
 
 ---
 
